@@ -21,8 +21,8 @@ With over a decade of deep expertise in the **.NET ecosystem** and **SQL Server*
 
 
 #### 🏥 Healthcare 
-* **Automated Referral Worflows:** Automated and integrated referrals into a central phone/SMS platform
-* **Payment APIs:** Created payment (and corresponding auditing/reporting) workflows using Stripe APIs
+* **Automated Referral Worflows:** Automated and integrated referrals into a central phone/SMS platform.
+* **Payment APIs:** Created payment, and corresponding auditing/reporting workflows using Stripe APIs
 ---
 
 ### 🛠️ Technical Arsenal
